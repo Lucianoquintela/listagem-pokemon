@@ -1,5 +1,5 @@
 # Listagem Pokémon 🔥  
-Projeto criado durante a semana do **Zero ao Programador Contratado** do Dev em Edobro. A aplicação lista os Pokémon de forma simples e dinâmica.
+Projeto criado durante a semana do **Zero ao Programador Contratado** do Dev em Dobro. A aplicação lista os Pokémon de forma simples e dinâmica.
 
 ---
 
