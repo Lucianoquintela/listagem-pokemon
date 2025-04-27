@@ -22,10 +22,10 @@ Projeto criado durante a semana do **Zero ao Programador Contratado** do Dev em 
 ## 📈 Status do Projeto
 
 > ✅ Projeto concluído!
-
+<!-- 
 ---
 
-<!-- ## 📷 Preview Responsivo  
+## 📷 Preview Responsivo  
 <div align="center">  
   <img src="assets/preview-desktop.png" alt="Preview Desktop" width="80%" />  
   <br><br>  
@@ -33,6 +33,6 @@ Projeto criado durante a semana do **Zero ao Programador Contratado** do Dev em 
 </div>  
 > **Dica:** Ajuste os valores de `width` caso queira exibir as imagens um pouco maiores ou menores. -->
 
----
+
 
 
