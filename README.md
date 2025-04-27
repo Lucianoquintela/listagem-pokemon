@@ -1,6 +1,8 @@
 # Listagem Pokémon  
 Projeto criado durante a semana do **Zero ao Programador Contratado** do Dev em Dobro. A aplicação lista os Pokémon de forma simples e dinâmica.
 
+[🔗 Acesse o site aqui!](https://lucianoquintela.github.io/listagem-pokemon/)
+
 ---
 
 ## ✨ Tecnologias Utilizadas
